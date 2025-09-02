@@ -1,0 +1,228 @@
+﻿  Plot2DViewer.cpp
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(96,9): error C2365: Camera2D::T: переопределение; предыдущим определением было "данные-член"
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(16,9):
+       см. объявление "Camera2D::T"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(98,3): error C2059: синтаксическая ошибка: return
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(98,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(100,2): error C2628: недопустимый "Camera2D" с последующим "double" (возможно, отсутствует ";")
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(102,25): error C2065: H: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(102,10): error C3861: ScreenToWorldY: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(24,3): error C3861: UpdateCamera: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(31,3): error C3861: UpdateCamera: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(38,3): error C3861: UpdateCamera: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(45,3): error C3861: UpdateCamera: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,11): error C2062: тип "double" не требуется
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,57): error C2371: X0: переопределение; различные базовые типы
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Data.h(5,2):
+       см. объявление "X0"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,65): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,65): error C2371: Y0: переопределение; различные базовые типы
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Data.h(6,2):
+       см. объявление "Y0"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,72): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,80): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,80): error C2371: px: переопределение; различные базовые типы
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Data.h(7,2):
+       см. объявление "px"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,88): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,88): error C2371: py: переопределение; различные базовые типы
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Data.h(8,2):
+       см. объявление "py"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(104,95): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(105,2): error C2059: синтаксическая ошибка: {
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(105,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(105,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(112,23): error C2065: W: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(112,26): error C2065: H: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(113,23): error C2065: W: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(113,26): error C2065: H: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(121,3): error C2065: H: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(122,3): error C2065: W: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(125,22): error C3861: T: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(125,20): error C2676: бинарный "+": "Camera2D" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(126,16): error C3861: R: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(126,22): error C3861: L: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(126,34): error C2065: H: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(126,36): error C2065: W: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(131,8): error C3861: WorldToScreenY: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(143,3): error C2065: posX: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(144,3): error C2065: posY: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(150,33): error C2065: posX: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(150,18): error C3861: WorldToScreenX: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(150,55): error C2065: posY: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(150,40): error C3861: WorldToScreenY: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(151,16): error C3861: WorldToScreenX: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(151,35): error C3861: WorldToScreenY: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(151,5): error C2668: LineTo: неоднозначный вызов перегруженной функции
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(148,7):
+      может быть "void LineTo(HDC,double,double)"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(4544,24):
+      или       "BOOL LineTo(HDC,int,int)"
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(151,5):
+      при попытке сопоставить список аргументов "(HDC, unknown-type, unknown-type)"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(160,10): error C3861: L: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(161,14): error C3861: R: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(162,13): error C3861: T: идентификатор не найден
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,3): error C2665: "LineTo": ни одна перегруженная функция не может преобразовать все типы аргументов
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(148,7):
+      может быть "void LineTo(HDC,double,double)"
+          C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,3):
+          "void LineTo(HDC,double,double)": невозможно преобразовать аргумент 3 из "Camera2D" в "double"
+              C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,18):
+              Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(4544,24):
+      или       "BOOL LineTo(HDC,int,int)"
+          C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,3):
+          "BOOL LineTo(HDC,int,int)": невозможно преобразовать аргумент 3 из "Camera2D" в "int"
+              C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,18):
+              Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(163,3):
+      при попытке сопоставить список аргументов "(HDC, int, Camera2D)"
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(187,5): error C2065: S_w_to_p: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(189,6): error C2065: S_w_to_p: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(189,24): error C2065: S_v_to_p: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(189,41): error C2065: S_w_to_v: необъявленный идентификатор
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(195,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Camera2D.h(195,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  (компиляция исходного файла "Plot2DViewer.cpp")
+  
+C:\Users\zarin\source\repos\kg__3\Matrix.h(181,16): error C2084: функция "Matrix<double> rotation_y(double)" уже имеет текст реализации
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Matrix.h(173,16):
+      см. предыдущее определение "rotation_y"
+  
+C:\Users\zarin\source\repos\kg__3\Scene2D.h(18,91): error C2661: Camera2D::Camera2D: нет перегруженной функции, принимающей 4 аргументов
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Scene2D.h(18,91):
+      при попытке сопоставить список аргументов "(double, double, double, double)"
+  
+C:\Users\zarin\source\repos\kg__3\Scene2D.h(90,9): error C2660: Camera2D::CameraMove: функция не принимает 2 аргументов
+  (компиляция исходного файла "Plot2DViewer.cpp")
+      C:\Users\zarin\source\repos\kg__3\Camera2D.h(73,7):
+       см. объявление "Camera2D::CameraMove"
+      C:\Users\zarin\source\repos\kg__3\Scene2D.h(90,9):
+      при попытке сопоставить список аргументов "(double, double)"
+  
+C:\Users\zarin\source\repos\kg__3\Plot2DViewer.cpp(70,15): error C2039: "Clear": не является членом "Scene2D".
+      C:\Users\zarin\source\repos\kg__3\Scene2D.h(7,7):
+       см. объявление "Scene2D"
+  
+C:\Users\zarin\source\repos\kg__3\Plot2DViewer.cpp(84,15): error C2039: "SetResolution": не является членом "Scene2D".
+      C:\Users\zarin\source\repos\kg__3\Scene2D.h(7,7):
+       см. объявление "Scene2D"
+  
+C:\Users\zarin\source\repos\kg__3\Plot2DViewer.cpp(224,11): error C2039: "Scale": не является членом "Scene2D".
+      C:\Users\zarin\source\repos\kg__3\Scene2D.h(7,7):
+       см. объявление "Scene2D"
+  
